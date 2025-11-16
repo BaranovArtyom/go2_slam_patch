@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="docs/sim_slam_demo.png" width="900"/>
+  <br><em>SLAM Toolbox running on Unitree Go2 inside IsaacSim (ROS2)</em>
+</p>
+
 # go2_slam_patch
 
 ROS2 package that enables SLAM Toolbox to work correctly with:
